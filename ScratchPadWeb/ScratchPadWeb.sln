@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScratchPadWeb", "ScratchPadWeb\ScratchPadWeb.csproj", "{B346B3B7-E364-42D7-A929-6D6F27C262F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScratchPadWeb.Tests", "ScratchPadWeb.Tests\ScratchPadWeb.Tests.csproj", "{EACE399C-1370-4D84-8E66-280EA6CB7209}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B346B3B7-E364-42D7-A929-6D6F27C262F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B346B3B7-E364-42D7-A929-6D6F27C262F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B346B3B7-E364-42D7-A929-6D6F27C262F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B346B3B7-E364-42D7-A929-6D6F27C262F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EACE399C-1370-4D84-8E66-280EA6CB7209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACE399C-1370-4D84-8E66-280EA6CB7209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACE399C-1370-4D84-8E66-280EA6CB7209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACE399C-1370-4D84-8E66-280EA6CB7209}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
