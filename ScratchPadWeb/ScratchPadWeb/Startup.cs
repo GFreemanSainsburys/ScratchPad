@@ -8,6 +8,7 @@ namespace ScratchPadWeb
     {
         public void Configuration(IAppBuilder app)
         {
+            // Adding comment
             ConfigureAuth(app);
         }
     }
